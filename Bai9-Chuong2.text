@@ -1,0 +1,37 @@
+Kết quả và giải thích của từng lệnh:
+a) Kết quả: -13
+Giải thích: Nhân i2 với i3 trước (theo thứ tự ưu tiên toán tử), sau đó cộng với i1.
+b) Kết quả: 4
+Giải thích: Cộng i2 với i3 trước (trong ngoặc), sau đó nhân với i1.
+c) Kết quả: -1.2
+Giải thích: Chia i1 cho i2 trước (theo thứ tự trái sang phải), sau đó nhân kết quả với i3.
+d) Kết quả: 0
+Giải thích: Chia lấy phần nguyên i1 cho i2 trước, sau đó nhân với i3.
+e) Kết quả: -2.6
+Giải thích: Chia i1 cho i2 trước, sau đó cộng với i3.
+f)  Kết quả: -3
+Giải thích: Chia lấy phần nguyên i1 cho i2 trước, sau đó cộng với i3.
+g)  Kết quả: 8.666
+Giải thích: Chia 5 cho 3 trước, sau đó cộng lần lượt với 3 và 4.
+h) Kết quả: 8
+Giải thích: Chia lấy phần nguyên 5 cho 3 trước, sau đó cộng lần lượt với 3 và 4.
+i)  Kết quả: 4
+Giải thích: Cộng 3, 4, 5 trước (trong ngoặc), sau đó chia cho 3.
+j)  Kết quả: 4
+Giải thích: Cộng 3, 4, 5 trước (trong ngoặc), sau đó chia lấy phần nguyên cho 3.
+k)  Kết quả: -0.5
+Giải thích: Nhân d2 với d3 trước (trong ngoặc), sau đó cộng với d1.
+l)  Kết quả: -0.5
+Giải thích: Nhân d2 với d3 trước (ưu tiên nhân chia), sau đó cộng với d1.
+m)  Kết quả: -0.2
+Giải thích: Chia d1 cho d2 trước, sau đó nhân với d3.
+n)  Kết quả: 0.3636
+Giải thích: Trừ d2 cho d3 trước (trong ngoặc), sau đó chia d1 cho kết quả.
+o)  Kết quả: 6.833
+Giải thích: Chia d3 cho 3 trước, sau đó cộng với d1 và d2.
+p)  Kết quả: 2.166
+Giải thích: Cộng d1, d2, d3 trước (trong ngoặc), sau đó chia cho 3.
+q)  Kết quả: 6
+Giải thích: Chia lấy phần nguyên d3 cho 3 trước, sau đó cộng với d1 và d2.
+r)  Kết quả: 52.5
+Giải thích: Cộng d1 với d2 (trong ngoặc), trừ d1 cho d3 (trong ngoặc), sau đó nhân hai kết quả này với 3.
