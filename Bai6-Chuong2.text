@@ -1,0 +1,8 @@
+Ý nghĩa các toán tử:
+/: Chia lấy kết quả thực (float division).
+//: Chia lấy phần nguyên (floor division).
+%: Lấy phần dư (modulo).
+**: Lũy thừa (power).
+and: Toán tử logic "và", trả về True nếu cả hai vế đều True.
+or: Toán tử logic "hoặc", trả về True nếu ít nhất một vế là True.
+is: So sánh hai đối tượng có cùng tham chiếu (cùng vị trí trong bộ nhớ) hay không.
