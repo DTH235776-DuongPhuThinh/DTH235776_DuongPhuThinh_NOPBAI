@@ -1,0 +1,3 @@
+Các loại ghi chú trong Python:
+- Ghi chú một dòng (single-line comment): Bắt đầu bằng dấu #.
+- Ghi chú nhiều dòng (multi-line comment): Có thể dùng nhiều dấu # liên tiếp hoặc dùng cặp dấu nháy ba (''' hoặc """) để ghi chú nhiều dòng.
