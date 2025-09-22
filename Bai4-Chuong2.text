@@ -1,1 +1,9 @@
-#python hỗ trợ các kiểu dữ liệu cơ bản: int, float, bool, str, list, ...
+#python hỗ trợ các kiểu dữ liệu cơ bản:
+- int (số nguyên)
+- float (số thực)
+- bool (kiểu logic: True/False)
+- str (chuỗi ký tự)
+- list (danh sách)
+- tuple (bộ giá trị)
+- set (tập hợp)
+- dict (từ điển)
