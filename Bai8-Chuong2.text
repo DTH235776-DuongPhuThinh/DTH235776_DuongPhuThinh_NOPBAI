@@ -1,0 +1,7 @@
+Các loại lỗi khi lập trình và cách bắt lỗi trong Python:
+- Các loại lỗi:
++ Lỗi cú pháp (SyntaxError): Lỗi do viết sai quy tắc ngôn ngữ, chương trình không chạy được.
++ Lỗi khi chạy (Runtime Error): Lỗi xảy ra khi chương trình đang chạy, ví dụ chia cho 0, truy cập biến chưa khai báo,...
++ Lỗi logic (Logic Error): Chương trình chạy nhưng kết quả sai do sai thuật toán hoặc sai ý tưởng.
+- Cách bắt lỗi:
++ Sử dụng khối try...except để xử lý lỗi khi chạy: Khối try...except giúp chương trình không bị dừng đột ngột khi gặp lỗi.
